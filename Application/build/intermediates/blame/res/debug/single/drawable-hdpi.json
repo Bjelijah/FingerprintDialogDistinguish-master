@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\android-FingerprintDialog-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fp_40px.png",
+        "source": "E:\\Android\\workspace\\android-FingerprintDialog-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\android-FingerprintDialog-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "E:\\Android\\workspace\\android-FingerprintDialog-master\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    }
+]

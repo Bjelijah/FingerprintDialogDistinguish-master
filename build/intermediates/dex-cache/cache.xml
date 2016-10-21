@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_8e5c9ad28c4b4debc3f066817321d6917c029e2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_86a84fc7720eb78aa957009a98cda499c2d8929f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\android-sdks\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_6f39428e59bf7a939a7634ea9b5050392628a6cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_9d003ce9843699f26c81bd74b69a9f3e2a678366\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_47e598ef365cd7f79c207a1d890c638e69f62f68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_8d2164e24491a333336e3cf8c2cbfad0461b54ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a6d0a18360e0c58f6949e91ee4fab9e904b91646">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14bd196252b2f48c29aa0d2e8344af89a63075b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_5b8d484cfbbf1be1d1191c5d0ed90cb57268edb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a00f28369e1743a65e40f33f51c8209202e9309a">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f9cab8ddb2c5996aeced28264d836765b3aba4c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_542ab729483c4aed51b9ecad6dc8a4324e6f5675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="E:\Android\workspace\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_5ad9a6348d5c81b372b95328110311aa40b1fceb\classes.dex" />
+    </item>
+
+</items>
