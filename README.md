@@ -3,6 +3,7 @@ Android FingerprintDialog Sample
 ===================================
 
 A sample that demonstrates to use registered fingerprints to authenticate the user in your app
+2016/10/21 add distinguish fingerprint by reflect
 
 Introduction
 ------------
@@ -24,6 +25,8 @@ Or alternatively you can fall back to server-side verified password as an authen
 
 Once the fingerprint (or password) is verified, the
 [FingerprintManager.AuthenticationCallback#onAuthenticationSucceeded()][6] callback is called.
+
+
 
 [1]: https://developer.android.com/reference/javax/crypto/KeyGenerator.html
 [2]: https://developer.android.com/reference/android/security/keystore/KeyGenParameterSpec.html
